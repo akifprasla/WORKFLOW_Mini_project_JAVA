@@ -10,4 +10,4 @@ This is a project implemented using JAVA data structures.
 
 With our understanding of data structures thought to us we were supposed to finish this project.
 Some of the data structures used are LinkedList, Graph, Map, etc.
-Used algorithms such as 'Bread First Searc' and 'Depth First Search' during this project. 
+Used algorithms such as 'Bread First Search' and 'Depth First Search' during this project. 
